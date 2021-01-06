@@ -34,52 +34,33 @@ https://carwga553.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/1024px-VTC2_logo_2018.svg.png",VTC2 HD
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/VosBu63.png",VTC3 HD
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC4-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8?
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC5-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC6-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC4-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7 HD
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC4-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7
-
-
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC6-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8 HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC9-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-
-
 #EXTINF:-1 tvg-id="VTC10-ClipTV" tvg-name="VTC10-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/gyKnxEP.png",VTC10
-
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC11-ClipTV" tvg-name="VTC11-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC12-ClipTV" tvg-name="VTC12-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/DqHGORv.jpg",VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="VTC10-ClipTV" tvg-name="VTC10-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13 HD
 https://livecdn.fptplay.net/sdc/vtc13_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14
 https://livecdn.fptplay.net/sdc/vtc14_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VTC16-ClipTV" tvg-name="VTC16-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16
 
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
