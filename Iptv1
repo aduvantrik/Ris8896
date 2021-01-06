@@ -9,27 +9,27 @@ http://iptvh.it/coocaa_KplusPM
 #EXTINF:-1 tvg-id="kplus1hd" group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" , K+1 HD
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 https://carwga553.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
 https://carwga553.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
 https://carwga553.vtvgiaitri.vn/vtv03/vtv03@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png", VTV4
 https://carwga553.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
 https://carwga553.vtvgiaitri.vn/vtv05/vtv05@1080p.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nam Bộ
+#EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nam Bộ
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nguyên
+#EXTINF:-1 tvg-id="" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5| Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png", VTV6
 https://carwga553.vtvgiaitri.vn/vtv06/vtv06@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png", VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/VTV7Logo.png", VTV7
 https://carwga553.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png", VTV8
 https://carwga553.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png", VTV9
 https://carwga553.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 #EXTINF:-1 tvg-id="VTC" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
