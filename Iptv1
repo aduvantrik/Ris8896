@@ -140,7 +140,6 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="http://vnews.gov.vn/sites/all/themes/vnews_new/xlogo.png.pagespeed.ic.WrQOtYMN6U.png" ,VNEWS HD
 https://livecdn.fptplay.net/sda/ttxvn_hls.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png", THVL1 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", THVL2 HD
