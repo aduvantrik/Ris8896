@@ -2,10 +2,12 @@
 
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1 
 
-#EXTINF:-1 tvg-id="kplus1hd"  group-title="🏆| 🇰➕" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/K%2B1.png",K+1 (Asia)
+#EXTINF:-1 tvg-id="kplus1hd"  group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/K%2B1.png",K+1 (Asia)
 http://iptvh.it/coocaa_KPlus1
-#EXTINF:-1 tvg-id="kpluspmhd"  group-title="🏆| 🇰➕" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png",K+PM (Asia)
+#EXTINF:-1 tvg-id="kpluspmhd"  group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png",K+PM (Asia)
 http://iptvh.it/coocaa_KplusPM
+#EXTINF:-1 tvg-id="kplus1hd" group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" , K+1 HD
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🌐| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 https://carwga553.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
@@ -341,11 +343,6 @@ https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH.smil/playlist.m3u8?uid
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="s_sport_3" group-title="SCTV" tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", BTV5 HD - Ssport 3
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
-#EXTINF:-1 tvg-id="kplus1hd" group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" , K+1 HD
-http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/BaZuGNL.png",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent="SmartSDK"
