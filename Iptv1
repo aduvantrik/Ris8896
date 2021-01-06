@@ -82,21 +82,6 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/playlist.m3u8
 
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="http://htvc.vn/uploads/editor/images/Logo Kenh/logo_HTV1_422x278.png", HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="http://htvc.vn/uploads/editor/images/Logo Kenh/logo_HTV2_422x278.png", HTV2 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="http://htvc.vn/uploads/editor/images/Logo Kenh/logo_HTV3_422x278.png", HTV3
-https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png", HTV Key
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="HTV7 HD-ClipTV" tvg-name="HTV7 HD-ClipTV" group-title="HTV" tvg-logo="https://i.imgur.com/lj72rHM.jpg",HTV7 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="HTV9 HD-ClipTV" tvg-name="HTV9 HD-ClipTV" group-title="HTV" tvg-logo="https://i.imgur.com/lVkFTxB.jpg",HTV9 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8?
-
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" ,Thuần Việt SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8?
 
