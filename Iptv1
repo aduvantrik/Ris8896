@@ -2,13 +2,6 @@
 
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1 
 
-#EXTINF:-1 tvg-id="kplus1hd"  group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/K%2B1.png",K+1 (Asia)
-http://iptvh.it/coocaa_KPlus1
-#EXTINF:-1 tvg-id="kpluspmhd"  group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png",K+PM (Asia)
-http://iptvh.it/coocaa_KplusPM
-#EXTINF:-1 tvg-id="kplus1hd" group-title="K+" tvg-logo="https://i.ibb.co/ZBdBfjR/K-1-BEARTV.png" , K+1 HD
-http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1
 https://carwga553.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png", VTV2
