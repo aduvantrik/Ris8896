@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv"
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps)
-http://183.81.24.162:12145/udp/225.1.1.136:30120
+http://183.81.24.162:12145/udp/225.1.2.249:30120
 #EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 8Mbps)
 http://183.81.24.162:12145/udp/225.1.2.13:30120
 #EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 8Mbps)
